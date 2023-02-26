@@ -1,0 +1,17 @@
+# ========================= Learn JavaScript in 2023 =========================
+
+
+---> Course Overview
+
+01- Introduction and What is Programming?
+02- What is JavaScript?
+03- Download and Setup Tools
+04- Fundamentals of JavaScript
+05- OOP 
+06- DOM
+07- BOM
+08- Regular Expression
+09- Advanced Concepts
+10- JSON
+11- AJAX
+12- ES6 ...
