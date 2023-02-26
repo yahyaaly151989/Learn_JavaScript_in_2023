@@ -1,0 +1,22 @@
+# ========================= What is JavaScript? =========================
+
+1- What is JavaScript?
+---> JavaScript is high level programming language.
+---> It  works in client side and server side.
+---> It makes interactive webpages.
+---> ....
+
+2- What Can You Do With JavaScript?
+---> Adding interactive behavior to web pages.
+---> Creating web and mobile apps.
+---> Building web servers and developing server applications.
+---> Game development.
+---> ...
+
+3- What Do I need to Start with JavaScript?
+---> HTML
+---> CSS
+---> VSCode
+---> Google Chrome
+--> Node js
+
